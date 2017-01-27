@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/SSD/Examples/CustomNotification/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/guiicon.png",
+        "source": "/SSD/Examples/CustomNotification/app/src/main/res/drawable-xxxhdpi/guiicon.png"
+    },
+    {
+        "merged": "/SSD/Examples/CustomNotification/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_mood_bad.png",
+        "source": "/SSD/Examples/CustomNotification/app/src/main/res/drawable-xxxhdpi/ic_mood_bad.png"
+    },
+    {
+        "merged": "/SSD/Examples/CustomNotification/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_pan_tool.png",
+        "source": "/SSD/Examples/CustomNotification/app/src/main/res/drawable-xxxhdpi/ic_pan_tool.png"
+    },
+    {
+        "merged": "/SSD/Examples/CustomNotification/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/SSD/Examples/CustomNotification/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]
